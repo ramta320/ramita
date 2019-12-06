@@ -1,0 +1,14 @@
+#7373    CV72 $6$KB$fyo99S0gm72R/M2MTWbQnTj.Vyw0ewZaAy55Pu8EOiEoX0GC4AUTuMfvuamABMtr37/oIcXza1XOguA/vLAmG.
+33800 solutions explored
+33800 solutions explored
+#14922   FT21 $6$KB$hb8Cv99PVppwUDoUJWDxNYcYJOCnQxDCP.yQma82z51piY6qGcGK191tvbaSKem1.Z2GaAXagAXHDwlo.s3Y51
+33800 solutions explored
+33800 solutions explored
+#17387   GR86 $6$KB$row6clcdpmfZlYoqEiI1F5EupZTySMWTy9MX4aoo79uHVNQ4VHcBiIVX.83T9uvAtD7kYojO3m6blyEKGPFlL1
+#19539   UN38 $6$KB$8TGuGsBlSfPEMZlmJGBW9TUUKdssd9PurkUkmkmMhKQtfo5ZQUEGbuZVttTQzdW3AzTQWPVGwtAcY8ax8BBCn.
+33800 solutions explored
+33800 solutions explored
+#13061   SA60 $6$KB$k98Az5M2iVsnfaqkYLmehkL9MRHMHoPyjsYpPYQILW5AT59h8IuJvFBmL2G/3UITMUrySv5m0kQVxCS4VH1qi0
+33800 solutions explored
+33800 solutions explored
+Time elapsed was 257556395903ns or 257.556395903s
